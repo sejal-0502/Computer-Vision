@@ -22,6 +22,7 @@ Goal of the project
 
 3. Image-Text Captioning
    Complete captions are generated with :
+   
    2.1 Greedy Search
    
    2.2 Sampling
